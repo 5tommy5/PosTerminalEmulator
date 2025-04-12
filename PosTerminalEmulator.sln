@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosTerminalEmulator.Console", "PosTerminalEmulator.Console\PosTerminalEmulator.Console.csproj", "{BE2680E3-E7ED-46AA-8C2E-18C854E899FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosTerminalEmulator", "PosTerminalEmulator\PosTerminalEmulator.csproj", "{79B9D80A-BEB5-45FA-A9FA-7309C9C772E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosTerminalEmulator.Tests", "PosTerminalEmulator.Tests\PosTerminalEmulator.Tests.csproj", "{B302FB7D-3101-42C7-9BE1-37ADC0353329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2680E3-E7ED-46AA-8C2E-18C854E899FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2680E3-E7ED-46AA-8C2E-18C854E899FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2680E3-E7ED-46AA-8C2E-18C854E899FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2680E3-E7ED-46AA-8C2E-18C854E899FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B9D80A-BEB5-45FA-A9FA-7309C9C772E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B9D80A-BEB5-45FA-A9FA-7309C9C772E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B9D80A-BEB5-45FA-A9FA-7309C9C772E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B9D80A-BEB5-45FA-A9FA-7309C9C772E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B302FB7D-3101-42C7-9BE1-37ADC0353329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B302FB7D-3101-42C7-9BE1-37ADC0353329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B302FB7D-3101-42C7-9BE1-37ADC0353329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B302FB7D-3101-42C7-9BE1-37ADC0353329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
